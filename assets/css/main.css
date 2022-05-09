@@ -1599,7 +1599,7 @@ input, select, textarea {
 
 /* Features */
 
-	#features {
+	#features {				
 		background: #353D40 url("images/bg04.jpg");
 		border-bottom: solid 1px #272e31;
 		padding: 10px 0 10px 0;
